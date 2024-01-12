@@ -224,4 +224,10 @@ https://babylon.explorers.guru/validators
 ```
 ### сумма 1000000 это 1 токен (шесть нулей)
 
+## Удалить ноду
+
+```
+sudo systemctl stop babylond && sudo systemctl disable babylond && sudo rm /etc/systemd/system/babylond.service && sudo systemctl daemon-reload && rm -rf $HOME/.babylond && rm -rf babylon && sudo rm -rf $(which babylond)
+```
+
 ## Следите за новостями в дискорде проекта, а так же вступайте в наш канал телеграм https://t.me/WingsNodeTeam
