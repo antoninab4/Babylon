@@ -17,12 +17,15 @@
 
 ```
 sudo apt update && sudo apt upgrade -y 
-
+```
+```
 sudo apt install make clang pkg-config libssl-dev build-essential git gcc chrony curl jq ncdu bsdmainutils htop net-tools lsof fail2ban wget -y 
-
+```
+```
 sudo apt update 
 sudo apt install -y curl git jq lz4 build-essential unzip 
-
+```
+```
 # Install Go
 bash <(curl -s "https://raw.githubusercontent.com/nodejumper-org/cosmos-scripts/master/utils/go_install.sh") 
 source .bash_profile 
