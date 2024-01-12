@@ -1,11 +1,11 @@
 # Babylon
 
-## Discord https://discord.gg/babylonglobal
-## Babylon - это новый проект Cosmos, целью которого является использование безопасности Bitcoin для повышения безопасности зон Cosmos и других цепочек PoS. 
-## Ссылка на команду https://babylonchain.io/about
-## Сайт: https://babylonchain.io/foundation
-## Твиттер: https://www.twitter.com/babylon_chain
-## GitHub https://github.com/babylonchain/babylonchain.github.io
+#### Discord https://discord.gg/babylonglobal
+### Babylon - это новый проект Cosmos, целью которого является использование безопасности Bitcoin для повышения безопасности зон Cosmos и других цепочек PoS. 
+#### Ссылка на команду https://babylonchain.io/about
+#### Сайт: https://babylonchain.io/foundation
+#### Твиттер: https://www.twitter.com/babylon_chain
+#### GitHub https://github.com/babylonchain/babylonchain.github.io
 
 ### Требования к серверу 
 #### Minimum 3CPU 4RAM 80GB
