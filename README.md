@@ -6,6 +6,7 @@
 #### Сайт: https://babylonchain.io/foundation
 #### Твиттер: https://www.twitter.com/babylon_chain
 #### GitHub https://github.com/babylonchain/babylonchain.github.io
+#### Zealy https://zealy.io/c/babylonchain/invite/1zn87lyrLTOaCWHZgpHR8
 
 ### Требования к серверу 
 #### Minimum 3CPU 4RAM 80GB
